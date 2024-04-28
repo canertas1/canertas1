@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caner</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canertas1&label=Profile%20views&color=0e75b6&style=flat" alt="canertas1" /> </p>
 
 - 📫 How to reach me **canerrtass1@gmail.com**
