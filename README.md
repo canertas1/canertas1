@@ -51,5 +51,4 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-</p>
-MM  
+</p> 
